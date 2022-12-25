@@ -10,11 +10,7 @@
 7. Créer des rôles<br>
 8. Affecter les rôles aux utilisateurs<br>
 9. PostMan :<br>
-&ensp;&ensp;&ensp;&ensp;- Tester l'authentification avec le mot de passe<br>
-&ensp;&ensp;&ensp;&ensp;- Analyser les contenus des deux JWT Access Token et Refresh Token<br>
-&ensp;&ensp;&ensp;&ensp;- Tester l'authentification avec le Refresh Token<br>
-&ensp;&ensp;&ensp;&ensp;- Tester l'authentification avec Client ID et Client Secret<br>
-&ensp;&ensp;&ensp;&ensp;- Changer les paramètres des Tokens Access Token et Refresh Token<br>
+
 
 ## Télécharger Keycloak 19
 
